@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "hierarchical-classification-with-ontologies"
+version = "v1.3.5"
+description = ""
+authors = ["Joana Santos <ffs@isep.ipp.pt>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
